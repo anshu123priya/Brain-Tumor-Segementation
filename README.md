@@ -1,1 +1,1 @@
-# H-DenseUNet: Hybrid Densely Connected UNet for Brain Tumor Segmentation from CT Volumes
+# H-DenseUNet: Hybrid Densely Connected UNet for Brain Tumor Segmentation from Multi model MRI images
